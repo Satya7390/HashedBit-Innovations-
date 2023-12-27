@@ -1,0 +1,76 @@
+/* ===============================================================================
+for calculator assignment 
+=============================================================================== */
+/* .body{
+margin: 0px auto;
+  height: 45rem;;
+  width: 100rem;
+  background-color: rgb(59, 110, 151);
+}
+#h2{
+    font-style: italic;
+    font-size: 30px;
+    
+    margin: 5px;
+   
+    color: white;
+    text-shadow: 0 0 3px #ff0000, 0 0 5px #0000ff;
+  
+  } */
+  
+  .button{
+    font-size:30px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    text-align: center;
+    color: aqua;
+    background-color: rgb(0,0,0,.5);
+    margin-left: 2vh;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px, rgb(38, 57, 77) 0px -20px -30px 10px;
+  
+  }
+  #button{
+    margin-top: 10px;
+    padding-left: 90px;
+    color: black;
+  }
+  .button:active{
+    background-color:whitesmoke ;
+    box-shadow: 0 0 3px #ff0000, 0 0 5px #0000ff;
+  
+  }
+  #main{
+    
+    background-color: rgb(0,0,0,.5);
+    height: fit-content;
+    width: fit-content;
+    margin: 0px auto;
+  }
+  #result{
+    margin-top: 10px;
+    background-color: #751e8b;
+    color: white;
+    text-shadow: 0 0 3px #ff0000, 0 0 5px #0000ff;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    height: 50px;
+    padding-top: 25px;
+    padding-left:10px ;
+    
+  }
+  /* #mul{
+    padding-top: 10px;
+  } */
+  .input{
+    margin-left: 35px;
+  }
+  ::placeholder{
+    color: crimson;
+    
+  }
+  #input{
+    padding-left: 30px;
+    color: white;
+    text-shadow: 0 0 3px #ff0000, 0 0 5px #0000ff;
+    font-size: 20px;
+  }
