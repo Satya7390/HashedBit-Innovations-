@@ -1,10 +1,10 @@
 /* ===============================================================================
 for calculator assignment 
 =============================================================================== */
-/* .body{
+.body{
 margin: 0px auto;
-  height: 45rem;;
-  width: 100rem;
+  height: 42rem;;
+  width: 95rem;
   background-color: rgb(59, 110, 151);
 }
 #h2{
@@ -16,7 +16,7 @@ margin: 0px auto;
     color: white;
     text-shadow: 0 0 3px #ff0000, 0 0 5px #0000ff;
   
-  } */
+  }
   
   .button{
     font-size:30px;
