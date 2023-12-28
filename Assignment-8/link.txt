@@ -1,2 +1,0 @@
-JS Assignment 6 - Stopwatch
-link: https://jsfiddle.net/satyanandgupta/oqwad2y0/8/
