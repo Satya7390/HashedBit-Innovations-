@@ -8,20 +8,19 @@ import reportWebVitals from './reportWebVitals';
 import ClassComp from './components/ClassComp';
 import InputHandle from './components/InputHandle';
 import Calculator from './Assignment-9/Calculator';
-import Home2 from './Home2'
-
+import Home2 from './Home2';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   // <React.StrictMode>
   //   <Home />
   //    <Dash/>
-  //    <App /> 
+     <App /> 
   //    <ClassComp/>
   // </React.StrictMode>
   // <ClassComp/>
   // <InputHandle/>
   // <Calculator/>
-  <Home2/>
+  // <Home2/>
 );
 
 // If you want to start measuring performance in your app, pass a function
