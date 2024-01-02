@@ -10,6 +10,7 @@ const MenuBarbar = () => {
                <Link to='/services' className="max-3" >Services</Link>
                <Link to='/blog' className="max-3" >Blog</Link>
                <Link to='/contact' className="max-3"> Contact</Link>
+               <Link to='/ipltable' className="max-3">IPL IplTable API</Link>
             </div>
         </div>
         </>

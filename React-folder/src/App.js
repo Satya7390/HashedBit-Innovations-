@@ -11,6 +11,7 @@ import About from "./components/pages/About";
 import Contact from "./components/pages/Contact";
 import Services from "./components/pages/Services";
 import Blog from "./components/pages/Blog";
+import IplTable from "./components/pages/IplTable";
 
 function App() {
   return (
@@ -29,6 +30,7 @@ function App() {
                 <Route path="/services" element={<Services/>}/>
                 <Route path="/blog" element={<Blog/>} />
                 <Route path="/contact" element={<Contact/>}/>
+                <Route path="/ipltable" element={<IplTable/>}/>
               </Routes>
             </div>
         </div>
